@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e11536da-326d-4824-ae3a-1a1680da83af" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebtechFinal3/src/main/java/WebtechFinal3/WebtechFinal3/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebtechFinal3/src/main/java/WebtechFinal3/WebtechFinal3/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebtechFinal3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/WebtechFinal3/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebtechFinal3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WebtechFinal3/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
   <component name="RunManager">
     <configuration name="WebtechFinal3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="WebtechFinal3.WebtechFinal3.main" />
+      <module name="WebtechFinal3.WebtechFinal3.main~1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="WebtechFinal3.WebtechFinal3.WebtechFinal3Application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,6 +114,7 @@
       <workItem from="1698262651477" duration="9000" />
       <workItem from="1698943904926" duration="1918000" />
       <workItem from="1699097670820" duration="719000" />
+      <workItem from="1699205487759" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
